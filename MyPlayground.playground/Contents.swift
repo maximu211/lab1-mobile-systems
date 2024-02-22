@@ -3,7 +3,6 @@
 import UIKit
 
 var num1, num2: Int?
-var result: Float?
 var operation: String?
 
 operation = "/"
